@@ -4,9 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<div align="center">
-<img width="100%" height = "250px" src="https://drive.google.com/file/d/1WDRj2CYh0X5D11-6QiiFqP0mWngUh8UA/view?usp=sharing" alt="cover" />
-</div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
