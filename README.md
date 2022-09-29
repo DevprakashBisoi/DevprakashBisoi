@@ -1,24 +1,13 @@
 <h1> Hello Fellow < Developer/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=DevprakashBisoi.DevprakashBisoi)
-
 </p>
 <div size='20px'> Hi! My name is Devprakash. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-
-- 🔭 I’m currently working on 
-
-- 🌱 I’m currently learning Data Science,Flutter,Data Engineering 
-
-- 👯 I’m looking to collaborate on  
-
-- 💬 Talk to me about  
+  <h3> Hi! I'm Dev, a 21-year-old final-year student at PES University pursuing an undergrad in computer science and engineering. All my life, I have had a fascination and interest in computing and technology. The developments in computer science are applied to all areas of science and culture, often used by large groups of people with little knowledge of computer science itself, this ability to change the way society functions is what motivated me to pursue a career that is computer-based. I believe in applying my technical skills to solving pertinent and real-life problems.  </h3>
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/DevprakashBisoi?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
