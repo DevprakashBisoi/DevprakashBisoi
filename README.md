@@ -5,7 +5,7 @@
 <div size='20px'> Hi! My name is Devprakash. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<h2> About Me </h2>
 
   <h3> Hi! I'm Dev, a 23-year-old graduate from PES University with a bachelor's in Computer science. All my life, I have had a fascination and interest in computing and technology. The developments in computer science are applied to all areas of science and culture, often used by large groups of people with little knowledge of computer science itself, this ability to change the way society functions is what motivated me to pursue a career that is computer-based. I believe in applying my technical skills to solving pertinent and real-life problems.  </h3>
 
